@@ -30,7 +30,6 @@
            <View style={{minHeight: (Dimensions.get("window").height - (Dimensions.get("window").height / 3.5)), justifyContent: 'center'}}>
              <View style={{}}>
              {/* <View style={{borderColor: "grey", borderWidth: 1,}}> */}
- 
                <Text style={{marginTop: 20, marginBottom: 30, fontSize: 30, fontWeight: "600", textAlign: "center"}}>Connexion</Text>
  
                <View style={{marginTop: 0, flexDirection: 'row', justifyContent: 'center'}}>
